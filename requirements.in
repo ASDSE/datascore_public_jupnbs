@@ -1,4 +1,8 @@
+requests
 pandas
 numpy
 matplotlib
-gql
+gql==3.0.0a3
+display
+Markdown
+asyncio
