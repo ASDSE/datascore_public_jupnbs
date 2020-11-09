@@ -7,9 +7,8 @@
 
 You can find the DataScore's Jupyter Hub under following link:
 
-<http://datascore-jupyterhub.int.kit.edu>
+<https://datascore-jupyterhub.int.kit.edu>
 
-(https about to come soon)
 
 You are very welcome to contribute to this project. Just contact Stephan Sinn to get access:
 <stephan.sinn@kit.edu>
